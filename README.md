@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate mobile developer from Jordan</h3>
-- 💬 Ask me about **Flutter Framework**
+<br>	
+- 💬 Ask me about **Flutter Framework** 
+<br>	
 - 🌱 I’m currently learning **ReactJs,Backend And Devops**
+<br>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-707&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-707" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
