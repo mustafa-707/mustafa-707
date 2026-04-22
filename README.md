@@ -1,19 +1,42 @@
-# Mustafa — Flutter Developer & Product Engineer
+<div align="center">
 
-Mobile-first. Product-minded. Based in Amman, Jordan.
+```
+███╗   ███╗██╗   ██╗███████╗████████╗ █████╗ ███████╗ █████╗ 
+████╗ ████║██║   ██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████╗   ██║   ███████║█████╗  ███████║
+██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+```
 
-I build cross-platform apps with Flutter and care about the full picture , architecture, UX, and shipping things that actually work.
+### Flutter Developer & Product Engineer · Jordan 🇯🇴
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/is10vmust)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/is10vmust)
+![Profile Views](https://komarev.com/ghpvc/?username=mustafa-707&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-**Core:** Flutter · Dart · iOS · Android  
-**Backend:** Node.js · NestJS · Django · PostgreSQL · Firebase  
-**Infra:** Docker · VPS · AWS · CI/CD  
+Mobile-first. Product-minded. I build cross-platform apps with Flutter and care about the full picture — architecture, UX, and shipping things that actually work.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/is10vmust)
-![Profile Views](https://komarev.com/ghpvc/?username=mustafa-707&style=flat-square&color=6e7681&label=views)
+**📱 Mobile:** Flutter · Dart · iOS · Android · Kotlin · Swift  
+**🌐 Frontend:** React · Next.js · TypeScript · Vue · Tailwind  
+**⚙️ Backend:** Node.js · NestJS · Django · PostgreSQL · MongoDB · Redis  
+**☁️ Infra:** Docker · VPS · AWS · Firebase · CI/CD  
+**🎨 Design:** Figma · Sketch · Adobe XD  
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafa-707&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-707&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
+---
+
+💬 Ask me anything about **Flutter** — state management, product engineering , performance.
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/is10vmust)
+
+</div>
